@@ -1,0 +1,20 @@
+## Bill of Materials
+
+| # | Part | Description | Supplier | Qty | Price (CAD, incl. tax) |
+|---|------|-------------|----------|-----|-----------------------:|
+| 1 | [UJ20-C-H-G-SMT-1-P16-TR](https://jlcpcb.com/partdetail/CUI-UJ20_C_H_G_SMT_1_P16TR/C45082766) | USB-C connector | JLCPCB | 1 | 1.22 |
+| 2 | [Capacitor Assortment Kit](https://www.aliexpress.com/item/1005012290380278.html) | Assorted capacitors | AliExpress | 1 | 19.44 |
+| 3 | [AP2112K-3.3](https://jlcpcb.com/partdetail/DiodesIncorporated-AP2112K_33TRG1/C51118) | 3.3V LDO regulator | JLCPCB | 1 | 0.27 |
+| 4 | [ESP32-WROOM-32UE-N4](https://jlcpcb.com/partdetail/EspressifSystems-ESP32_WROOM_32UEN4/C701344) | ESP32 module (U.FL antenna connector) | JLCPCB | 1 | 6.41 |
+| 5 | [CH340C](https://www.aliexpress.com/item/1005007206307679.html) | USB-to-serial converter | AliExpress | 1 | 5.98 |
+| 6 | [2.4 GHz Antenna](https://www.aliexpress.com/item/1005012839987115.html) | External 2.4 GHz antenna | AliExpress | 1 | 14.58 |
+| 7 | [Optical to Aux](https://www.aliexpress.com/item/1005009093776595.html) | Optical (TOSLINK) to 3.5mm aux adapter | AliExpress | 1 | 4.24 |
+| 8 | [SJ-3523-SMT-TR](https://jlcpcb.com/parts/componentSearch?searchTxt=SJ-3523-SMT-TR) | 3.5mm AUX jack | JLCPCB | 1 | 2.03 |
+| 9 | [PCM1808PWR](https://jlcpcb.com/partdetail/TexasInstruments-PCM1808PWR/C55513) | Stereo audio ADC | JLCPCB | 1 | 1.13 |
+| 10 | [BC817](https://jlcpcb.com/partdetail/2494-BC817_RANGE_100_250/C2137) | NPN transistor | JLCPCB | 1 | 0.07 |
+| 11 | [5.1kΩ](https://jlcpcb.com/partdetail/CCO_Chian_Chia_Elec-MF1_8W_5_1K_1_T/C119195) | Resistor | JLCPCB | 1 | 0.04 |
+| 12 | [1kΩ](https://jlcpcb.com/partdetail/YAGEO-CFR25SJT_521K/C1369210) | Resistor | JLCPCB | 1 | 0.04 |
+| 13 | [10kΩ](https://jlcpcb.com/partdetail/CCO_Chian_Chia_Elec-MF1_8W_10K_1_T/C119202) | Resistor | JLCPCB | 1 | 0.04 |
+| | | | | **Parts subtotal** | **55.49** |
+| | | | | Shipping | 17.10 |
+| | | | | **Total** | **72.59** |
