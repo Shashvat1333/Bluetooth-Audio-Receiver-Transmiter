@@ -1,0 +1,78 @@
+** Drc report for Bluetooth-Audio-Receiver-Transmiter.kicad_pcb **
+** Created on 2026-10-11T16:39:14 **
+** Report includes: Errors, Warnings **
+
+** Found 11 DRC violations **
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 66.3093 mm): Pad A1_B12 [Net-(J1-GND)] of J3 on F.Cu
+    @(219.4350 mm, 65.5092 mm): Pad A4_B9 [Net-(J3-VBUS)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 65.5092 mm): Pad A4_B9 [Net-(J3-VBUS)] of J3 on F.Cu
+    @(219.4350 mm, 64.8593 mm): Pad B8 [unconnected-(J3-SBU2-PadB8)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 64.3593 mm): Pad A5 [Net-(J3-CC1)] of J3 on F.Cu
+    @(219.4350 mm, 64.8593 mm): Pad B8 [unconnected-(J3-SBU2-PadB8)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 64.3593 mm): Pad A5 [Net-(J3-CC1)] of J3 on F.Cu
+    @(219.4350 mm, 63.8593 mm): Pad B7 [Net-(J3-DN1)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 63.3593 mm): Pad A6 [Net-(J3-DP1)] of J3 on F.Cu
+    @(219.4350 mm, 62.8593 mm): Pad A7 [Net-(J3-DN1)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 63.3593 mm): Pad A6 [Net-(J3-DP1)] of J3 on F.Cu
+    @(219.4350 mm, 63.8593 mm): Pad B7 [Net-(J3-DN1)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 62.8593 mm): Pad A7 [Net-(J3-DN1)] of J3 on F.Cu
+    @(219.4350 mm, 62.3593 mm): Pad B6 [Net-(J3-DP1)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 61.8593 mm): Pad A8 [unconnected-(J3-SBU1-PadA8)] of J3 on F.Cu
+    @(219.4350 mm, 61.3593 mm): Pad B5 [Net-(J3-CC2)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 61.8593 mm): Pad A8 [unconnected-(J3-SBU1-PadA8)] of J3 on F.Cu
+    @(219.4350 mm, 62.3593 mm): Pad B6 [Net-(J3-DP1)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 59.9093 mm): Pad B1_A12 [Net-(J1-GND)] of J3 on F.Cu
+    @(219.4350 mm, 60.7092 mm): Pad B4_A9 [unconnected-(J3-VBUS__1-PadB4_A9)] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(219.4350 mm, 60.7092 mm): Pad B4_A9 [unconnected-(J3-VBUS__1-PadB4_A9)] of J3 on F.Cu
+    @(219.4350 mm, 61.3593 mm): Pad B5 [Net-(J3-CC2)] of J3 on F.Cu
+
+** Found 4 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(147.6500 mm, 72.1250 mm): Track [Net-(J1-GND)] on F.Cu, length 0.4243 mm
+    @(153.2400 mm, 72.1500 mm): Pad 1 [Net-(J1-GND)] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(153.2400 mm, 72.1500 mm): Pad 1 [Net-(J1-GND)] of U3 on F.Cu
+    @(161.5000 mm, 75.5000 mm): Track [Net-(J1-GND)] on F.Cu, length 0.9899 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(159.1800 mm, 66.3000 mm): Pad 39 [Net-(J1-GND)] of U3 on F.Cu
+    @(153.2400 mm, 72.1500 mm): Pad 1 [Net-(J1-GND)] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(208.5000 mm, 68.0000 mm): Track [Net-(J3-VBUS)] on F.Cu, length 0.7071 mm
+    @(146.3500 mm, 73.6000 mm): Track [Net-(J3-VBUS)] on F.Cu, length 0.7375 mm
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
