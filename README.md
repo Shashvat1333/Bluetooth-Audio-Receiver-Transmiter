@@ -71,7 +71,7 @@ AUX jack → PCM1808 (ADC) → ESP32 (Bluetooth) → your headphones
 
 The ESP32 needs code before the board will do anything. You upload it once with the Arduino IDE.
 
-- **Code:** [Firmware](Firmware/) <!-- link the exact .ino file -->
+- **Code:** [Firmware]([Firmware/](https://github.com/Shashvat1333/Bluetooth-Audio-Transmiter/blob/main/firmware.ino)) <!-- link the exact .ino file -->
 - **Board:** ESP32 Dev Module
 - **Port:** USB-C (this one port both powers the board **and** uploads the code)
 
@@ -79,7 +79,7 @@ The ESP32 needs code before the board will do anything. You upload it once with 
 
 ## Getting Started
 
-1. **Download the firmware:** Grab the code from the [Firmware](Firmware/) folder.
+1. **Download the firmware:** Grab the code from the [Firmware]([Firmware/](https://github.com/Shashvat1333/Bluetooth-Audio-Transmiter/blob/main/firmware.ino)) folder.
 2. **Set up the Arduino IDE:** Install the ESP32 board package (Boards Manager → search "esp32").
 3. **Connect the board:** Plug the board into your computer with a USB-C cable. This one cable powers the board **and** uploads the code.
 4. **Select the board:** Tools → Board → **ESP32 Dev Module**, then pick the correct port under Tools → Port.
