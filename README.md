@@ -79,7 +79,7 @@ The ESP32 needs code before the board will do anything. You upload it once with 
 
 ## Getting Started
 
-1. **Download the firmware:** Grab the code from the [Firmware]([Firmware/](https://github.com/Shashvat1333/Bluetooth-Audio-Transmiter/blob/main/firmware.ino)) folder.
+1. **Download the firmware:** Grab the code from the [firmware.ino](https://github.com/Shashvat1333/Bluetooth-Audio-Transmiter/blob/main/firmware.ino).
 2. **Set up the Arduino IDE:** Install the ESP32 board package (Boards Manager → search "esp32").
 3. **Connect the board:** Plug the board into your computer with a USB-C cable. This one cable powers the board **and** uploads the code.
 4. **Select the board:** Tools → Board → **ESP32 Dev Module**, then pick the correct port under Tools → Port.
